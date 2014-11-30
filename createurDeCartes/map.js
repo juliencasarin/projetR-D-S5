@@ -1,5 +1,5 @@
 
-function Map(){
+function Map(){ 
 
 	
 	this.db = TAFFY();
